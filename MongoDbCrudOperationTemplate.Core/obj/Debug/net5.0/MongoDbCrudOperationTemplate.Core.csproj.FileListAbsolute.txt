@@ -1,0 +1,12 @@
+C:\Users\malik\source\repos\MongodbCrudOperationTemplate\MongoDbCrudOperationTemplate.Core\bin\Debug\net5.0\MongoDbCrudOperationTemplate.Core.deps.json
+C:\Users\malik\source\repos\MongodbCrudOperationTemplate\MongoDbCrudOperationTemplate.Core\bin\Debug\net5.0\MongoDbCrudOperationTemplate.Core.dll
+C:\Users\malik\source\repos\MongodbCrudOperationTemplate\MongoDbCrudOperationTemplate.Core\bin\Debug\net5.0\ref\MongoDbCrudOperationTemplate.Core.dll
+C:\Users\malik\source\repos\MongodbCrudOperationTemplate\MongoDbCrudOperationTemplate.Core\bin\Debug\net5.0\MongoDbCrudOperationTemplate.Core.pdb
+C:\Users\malik\source\repos\MongodbCrudOperationTemplate\MongoDbCrudOperationTemplate.Core\obj\Debug\net5.0\MongoDbCrudOperationTemplate.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malik\source\repos\MongodbCrudOperationTemplate\MongoDbCrudOperationTemplate.Core\obj\Debug\net5.0\MongoDbCrudOperationTemplate.Core.AssemblyInfoInputs.cache
+C:\Users\malik\source\repos\MongodbCrudOperationTemplate\MongoDbCrudOperationTemplate.Core\obj\Debug\net5.0\MongoDbCrudOperationTemplate.Core.AssemblyInfo.cs
+C:\Users\malik\source\repos\MongodbCrudOperationTemplate\MongoDbCrudOperationTemplate.Core\obj\Debug\net5.0\MongoDbCrudOperationTemplate.Core.csproj.CoreCompileInputs.cache
+C:\Users\malik\source\repos\MongodbCrudOperationTemplate\MongoDbCrudOperationTemplate.Core\obj\Debug\net5.0\MongoDbCrudOperationTemplate.Core.dll
+C:\Users\malik\source\repos\MongodbCrudOperationTemplate\MongoDbCrudOperationTemplate.Core\obj\Debug\net5.0\ref\MongoDbCrudOperationTemplate.Core.dll
+C:\Users\malik\source\repos\MongodbCrudOperationTemplate\MongoDbCrudOperationTemplate.Core\obj\Debug\net5.0\MongoDbCrudOperationTemplate.Core.pdb
+C:\Users\malik\source\repos\MongodbCrudOperationTemplate\MongoDbCrudOperationTemplate.Core\obj\Debug\net5.0\MongoDbCrudOperationTemplate.Core.csproj.AssemblyReference.cache
